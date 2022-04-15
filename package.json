@@ -1,0 +1,23 @@
+{
+  "name": "getgitlabcfg",
+  "version": "1.0.0",
+  "description": "download gitlab repo given file for some use, for example configure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huxinmin/getGitlabCfg.git"
+  },
+  "keywords": [
+    "gitlab",
+    "config"
+  ],
+  "author": "huxinmin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huxinmin/getGitlabCfg/issues"
+  },
+  "homepage": "https://github.com/huxinmin/getGitlabCfg#readme"
+}
